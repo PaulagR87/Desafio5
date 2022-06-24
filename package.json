@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.2",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.18",
+    "pug": "^3.0.2"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulagR87/Desafio5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulagR87/Desafio5/issues"
+  },
+  "homepage": "https://github.com/PaulagR87/Desafio5/#readme",
+  "description": ""
+}
